@@ -8,7 +8,7 @@ Arms And Armor
 
 Arms and Armor are essential to any fantasy genre story, from swords to suits of plate mail. The following defines weapons and armor within the rules of Wigged Out:
 
-"Armor" is defined as any item that protects the wearer by granting Armor Points, a Soak, or a Threshold. Armor may be a physical item, such as a chain mail shirt; natural, such as a thick hide or scales on a monster; or supernatural in nature, such as the effect of a spell or prayer. Damage of the type "Body" will ignore the effects of armor. Please see the Armor section for more details.
+"Armor" is defined as any item that protects the wearer by granting the wearer additional Toughness. Armor may be a physical item, such as a chain mail shirt; natural, such as a thick hide or scales on a monster; or supernatural in nature, such as the effect of a spell or prayer. Please see the Armor section for more details.
 
 "Arms" can be broken down in to four categories:
 
