@@ -21,7 +21,6 @@ Weapons will have a starting damage, called Mode Damage, outlined below.
 
 Mode Damage
 Punch	1
-	
 Knife	5
 Medium	6
 Two-handed	7
@@ -42,14 +41,14 @@ If a valid defense is called, then the Offender and Defender are subject to its 
 When an offender first successfully strikes the defender, the offender will call their Threat.
 
 Threat is quantified as the sum of: 
-  model damage, innate to Model of the Offender's weapon
-  martial damage, innate to the Offender's martial skill.
-  make damage, innate to the Make of the Offender's weapon.
-  augment damage afforded by temporary bonuses called Augments.
-  More on these types later.
+model damage, innate to Model of the Offender's weapon
+martial damage, innate to the Offender's martial skill.
+make damage, innate to the Make of the Offender's weapon.
+augment damage afforded by temporary bonuses called Augments.
+More on these types later.
 
 If the Offender's Threat is lesser than the Defender's Toughness, then the Defender may ignore the attack.
- Offender may immediately strike again for your Threat with a +1 bonus.
+Offender may immediately strike again for your Threat with a +1 bonus.
 Continue to strike again in this fashion.
 When your opponent calls "Wound," it means that you have struck them for 1 over their AC, and they have taken a Wound, subtracting from their Body Total.
 When a Wound is taken, you start the count over at your starting damage.
